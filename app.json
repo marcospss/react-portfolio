@@ -1,0 +1,8 @@
+{
+    "name": "Projeto utilizando o react",
+    "description": "Projeto utilizando o [React](https://reactjs.org/).",
+    "repository": "https://github.com/marcospss/portfolio",
+    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+    "keywords": ["node", "express", "heroku", "react", "webpack"],
+    "image": "heroku/nodejs"
+}
